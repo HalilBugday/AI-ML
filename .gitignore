@@ -3,3 +3,5 @@ IMDb_Sentiment_Analysis/IMDb_comments.tsv
 Geo_Crime_Clustering/crime.csv
 Geo_Crime_Clustering/map.html
 /Aircraft_Type_Classification/airplanes
+/Voice_Identification/UrbanSound8K
+Voice_Identification/ChildrenCountdown.wav
